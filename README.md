@@ -1,7 +1,7 @@
 Hello everyone! 👻👻
 My name is Leonardo, welcome to my repository!
 
-Here, you will find some codes abount 📈 data science 📈 knowledge!
+Here, you will find some codes about 📈 data science 📈 knowledge!
 Take a moment to read it!
 
 Well, what about me?
