@@ -11,6 +11,7 @@ if you want to share some moment, code or interest with me, please, come to my l
 Isn't much, but it is honest XD
 Take care!!
 
+[Portuguese text about Isaac Asimov's mindset]
 “[…]Uma vez que tenhamos computadores em casa, cada um deles ligado a bibliotecas enormes, 
 qualquer pessoa pode fazer perguntas e ter respostas, obter materiais de referência sobre qualquer assunto em que esteja interessada em saber.”
 - Isaac Asimov, ao questionar formas de se aprender no futuro.
