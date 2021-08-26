@@ -18,10 +18,5 @@ qualquer pessoa pode fazer perguntas e ter respostas, obter materiais de referê
 -- Isaac Asimov, ao questionar formas de se aprender no futuro.
 
 https://www.linkedin.com/in/leonardomeneghinzenni/
-
-[Reading List]
-There, we have a list of books i'm reading or i'm done.
- - Marked up with: ✅ *Complete* | 🚩 *To read*.
- - Stile: _Last Name, First Name - Tittle, edition, publish place, publishing company, year of publish_.
  
  
