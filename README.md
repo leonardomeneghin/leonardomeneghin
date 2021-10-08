@@ -1,15 +1,10 @@
 Hello everyone! 👻👻
 My name is Leonardo, welcome to my repository!
 
-Here, you will find some codes about 📈 data science 📈 knowledge!
-Take a moment to read it!
 
 Well, what about me?
-
-I'm interested to create Machine Learning, IA and more python codes to help world be better to us 🤖🤖🤖🤖
-if you want to share some moment, code or interest with me, please, come to my linked in!
-Isn't much, but it is honest XD
-Take care!!
+I'm a newbie developer, wich love to code and learn new things and tecnology.
+My mission as a person is to help people and give everyone a chance to survive and live another day.
 
 [Portuguese text about Isaac Asimov's mindset]
 
