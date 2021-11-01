@@ -1,6 +1,7 @@
 Hello everyone! 👻👻
 My name is Leonardo, welcome to my repository!
 
+Pronuns: He/his  ^.^
 
 Well, what about me?
 I'm a newbie developer, wich love to code and learn new things and tecnology.
