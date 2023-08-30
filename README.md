@@ -3,7 +3,7 @@
 
 <p> I am a Back-end developer and entusiast at Game Development inspired by Books :D </p>
 <p>Check my ✨ Social media ✨ in the link below :) </p>
-<a href="https://www.notion.so/Menu-638b871db3c349099d89871f8e32067e"> <span>📼</span> Social Media and Projects at Notion<a>
+<a href="[https://www.notion.so/Menu-638b871db3c349099d89871f8e32067e](https://geode-bosworth-40b.notion.site/Menu-638b871db3c349099d89871f8e32067e?pvs=4)"> <span>📼</span> Social Media and Projects at Notion<a>
 
 <a href="https://meneghin.itch.io/"><span>🎮</span>Games Published at Itch</a>
 <h1> Enjoy mine repo :3</h1>
